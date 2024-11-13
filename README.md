@@ -1,7 +1,7 @@
 ## EXPERIMENT--01-ALP-FOR-8086
 ### Name : HAREVASU S
 ### Roll no : 212223230069
-### Date of experiment : 13/8/24
+### Date of experiment : 13/08/2024
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
